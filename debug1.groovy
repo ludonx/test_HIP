@@ -1,4 +1,5 @@
 node {
+    // ./iics list --region em --username ludovik.tekam@eurovia.sandbox --password azzer 
     def String username
     def String password
 
